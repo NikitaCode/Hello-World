@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "img": "http://farm2.staticflickr.com/1890/43621272264_8f848b95e8_m.jpg",
+    "name": "name of chuvak",
+    "title": "Doctor",
+    "description": "hahahahahaha I\"m alive"
+  },
+  {
+    "id": 2,
+    "img": "http://farm2.staticflickr.com/1858/29403381127_cfe2b02b72_m.jpg",
+    "name": "name of patsanchik",
+    "title": "Explorer",
+    "description": "sorry, I\"m dead"
+  }
+]
