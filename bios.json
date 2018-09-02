@@ -12,5 +12,12 @@
     "name": "name of patsanchik",
     "title": "Explorer",
     "description": "Hohoho, I\" alive too"
+  },
+  {
+    "id": 3,
+    "img": "http://farm2.staticflickr.com/1858/29403381127_cfe2b02b72_m.jpg",
+    "name": "name of patsanchik 2",
+    "title": "Explorer",
+    "description": "Hohoho, I\" alive too yeyeye"
   }
 ]
